@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "Welcome to Qi Blog"
+author:     "qi"
+catalog:    true
+tags:
+    - Meta
+---
+
+
+Hi，我是小奇~
